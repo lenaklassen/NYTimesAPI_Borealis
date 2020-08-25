@@ -1,0 +1,22 @@
+h1 {
+  font: 32px arial, sans-serif;
+  font-weight: bold;
+  color: lightseagreen;
+}
+h3 {
+  font: 18px arial, sans-serif;
+  font-weight: bold;
+  color: lightcoral;
+}
+p {
+  font: 15px arial, sans-serif;
+  color: lightcoral;
+}
+/* unvisited link */
+a:link {
+  color: lightgreen;
+}
+/* visited link */
+a:visited {
+  color: seagreen;
+}
